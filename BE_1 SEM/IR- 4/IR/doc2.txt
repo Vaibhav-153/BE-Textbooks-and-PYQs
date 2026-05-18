@@ -1,0 +1,15 @@
+An inverted index is a key data structure in information retrieval systems.
+It maps each term to the list of documents where that term appears.
+This allows fast searching and efficient query processing.
+Building an inverted index involves tokenizing each document and removing stop words.
+Stop words are excluded to save space and improve retrieval accuracy.
+Stemming is often applied to reduce words to their root form for better matching.
+Inverted indexes are widely used in modern search engines and digital libraries.
+Each term in the index points to one or more document identifiers.
+Advanced systems use compression techniques to save storage and speed up search.
+Query processing uses the inverted index to quickly find relevant documents.
+Boolean, phrase, and proximity queries depend on the inverted index structure.
+Updating the index efficiently is important when new documents are added.
+Ranking algorithms use term frequency and inverse document frequency to score results.
+Inverted indexing has made large-scale document retrieval fast and practical.
+Efficient indexing directly improves the performance of an IR system.

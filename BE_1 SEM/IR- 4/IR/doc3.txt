@@ -1,0 +1,13 @@
+Search engines rely on information retrieval techniques to provide relevant results to users.
+They use inverted indexes to map query terms to corresponding documents.
+The preprocessing steps include tokenization, stopword removal, and stemming.
+Natural language processing helps in understanding the intent of the user’s query.
+Query processing involves analyzing the query and matching it with indexed documents.
+Ranking algorithms ensure that the most relevant results appear at the top.
+Evaluation metrics such as precision, recall, and F-measure are used to test system accuracy.
+Search engines handle millions of queries daily with the help of distributed indexing.
+Machine learning models improve personalization and ranking of search results.
+Modern IR systems also incorporate big data and NLP for large-scale document retrieval.
+Information retrieval techniques are not limited to text — they extend to images, audio, and video.
+Optimized indexing and query processing reduce response time and improve user satisfaction.
+Efficient search systems save time and improve decision-making for users.
